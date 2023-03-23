@@ -19,3 +19,21 @@
 ##### Lwind_kph(float)
 ##### humidity(float)
 ##### cloud(float)
+
+### Description of resources 
+
+### Response and return
+#### Sample request:
+##### https://api.manitobaweather.org/json?lat=lat=53.760&lng=long=98.8139&date=2023-03-15
+#### Sample response:
+##### {
+      "results":
+      {
+        "weather":"sunny",
+        "Lwind_kph": "14.8",
+        "humidity": "61",
+        "cloud": "50"
+     
+      },
+       "status":"OK"
+    }
