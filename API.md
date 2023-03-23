@@ -13,4 +13,9 @@
 
 ##### The user can get the weather of any location in Manitoba based on the Latitude/Longitude and Date they enter.
 
-###
+#### Endpoint:
+##### https://api.manitobaweather.org/com/weatherdetail/123?&Lwind_kph=14.9&humidity=60&cloud=50
+#### Paramaters: 
+##### Lwind_kph(float)
+##### humidity(float)
+##### cloud(float)
