@@ -44,8 +44,9 @@
           "description": "Returns details of weather based on a postal code"
         },
        ]
-      }
-     }
+    }
+   ]
+   
 
 ### Response and return
 
