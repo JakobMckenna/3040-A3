@@ -29,7 +29,7 @@
 #### GET: GET /weatherType/{postalArea}/humidty
 
 #### {
-  "resources": [
+  "resources": 
     {
       "name": "manitobaWeather",
       "endpoints": [
@@ -44,8 +44,9 @@
           "description": "Returns details of weather based on a postal code"
         },
        ]
-    }
-   ]
+      },
+     }
+   
    
 
 ### Response and return
