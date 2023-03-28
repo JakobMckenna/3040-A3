@@ -28,27 +28,6 @@
 #### GET: GET /weatherType/{postalArea}/windSpeed
 #### GET: GET /weatherType/{postalArea}/humidty
 
-#### {
-  "resources": 
-    {
-      "name": "manitobaWeather",
-      "endpoints": [
-        {
-          "method": "GET",
-          "url": "/weatherType",
-          "description": "Returns the type of weather for these coordinates"
-        },
-        {
-          "method": "GET",
-          "url": "/products/{postalCode}",
-          "description": "Returns details of weather based on a postal code"
-        },
-       ]
-      },
-     }
-   
-   
-
 ### Response and return
 
 #### Sample request:
